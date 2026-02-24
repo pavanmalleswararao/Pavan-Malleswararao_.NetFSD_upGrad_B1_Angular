@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Form Validation</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            padding: 30px;
+        }
+
+        input{
+            display: block;
+            margin-bottom: 10px;
+            padding: 6px;
+            width: 250px;
+        }
+
+        .message{
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .error{
+            color: red;
+        }
+
+        .success{
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    <input type="text" id="name" placeholder="Enter Name" onchange="validateName()">
+    <p id="nameMsg" class="message"></p>
+
+    <input type="email" id="email" placeholder="Enter Email" onchange="validateEmail()">
+    <p id="emailMsg" class="message"></p>
+
+    <input type="number" id="age" placeholder="Enter Age" onchange="validateAge()">
+    <p id="ageMsg" class="message"></p>
+    
+    <button onclick="saveData()">Register</button>
+    <p id="finalMsg"></p>
+
+    <script>
+        function validateName(){
+            let name=document.getElementById('name').vlaue;
+
+            if (name===""){
+                document.getElementById('nameMsg').innerHTML="Name Cannot be Empty";
+                document.getElementById('nameMsg').className='message error';
+                return false;
+            } else{
+                document.getElementById('nameMsg').innerHTML="Looks good!";
+                document.getElementById('nameMsg').className="message success";
+                return true
+            }
+        }
+
+        function validateEmail(){
+            let email=document.getElementById('email').value;
+
+            if(email===""){
+                document.getElementById('emailMsg').innerHTML="Email must contains @";
+                document.getElementById('emailMsg').className='message error';
+                return false
+            } else{
+                document.getElementById('emailMsg').innerHTML="Valid email";
+                document.getElementById('emailMsg').className='message success';
+                return true;
+            }
+        }
+
+        function validateAge(){
+            let age=document.getElementById('age').value;
+
+            if(age<=18){
+                document.getElementById('ageMsg').innerHTML="Age Must be greater than 18";
+                document.getElementById('getMsg').className="message error";
+                return false;
+            }else{
+                document.getElementById('ageMsg').innerHTML="Age Accepted";
+                document.getElementById('ageMsg').className="message success";
+                return true;
+            }
+        }
+
+        function saveData(){
+            if (validateName() && validateEmail() && validateAge()){
+                sessionStorage.setItem("userName",document.getElementById('name').value);
+                sessionStorage.setItem("userEmail",document.getElementById('email').vlaue);
+                sessionStorage.setItem("userAge",document.getElementById('age').value);
+
+                document.getElementById('finalMsg').innerHTML="Data stored successfully in sessionStorage";
+            }else{
+                document.getElementById('finalMsg').innerHTML="Please fix validation error first.";
+            }
+        }
+    </script>
+</body>
+</html>

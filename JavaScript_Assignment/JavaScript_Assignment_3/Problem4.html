@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Expense Tracker</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            padding: 30px;
+        }
+
+        input{
+            display: block;
+            margin-bottom: 10px;
+            padding: 6px;
+            width: 250px;
+        }
+
+        button{
+            margin: 5px 0;
+            padding: 8px 15px;
+        }
+
+        .expense{
+            background: #f2f2f2;
+            padding: 8px;
+            margin-bottom: 6px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Mini Expense Tracker</h2>
+
+    <input type="text" id="title" placeholder="Expense Title">
+    <input type="number" id="amount" placeholder="Amout">
+    <input type="date" id="date">
+
+    <button onclick="addExpense()">Add Expense</button>
+    <button onclick="viewExpenses()">View Expenses</button>
+    <button onclick="clearExpenses()">Delete All Expenses</button>
+
+    <div id="expenseList"></div>
+
+    <script>
+        let db=openDatabase("ExpenseDB","1.0","Expense Database",2*1024*1024);
+        db.transaction(function(tx){
+            tx.executeSql(
+                "CREATE TABLE expenses(id INTEGER PRIMARY KEY, title TEXT, amout REAL, date TEXT)",
+                [],
+                null,
+                function(tx,error){console.log("Table error:",error);}
+            );
+        });
+
+        function addExpense(){
+            let title=document.getElementById('title').value;
+            let amount=document.getElementById('amount').value;
+            let date=document.getElementById('date').value;
+
+            db.transaction(function(tx){
+                tx.executeSql(
+                    "INSERT INTO expenses(title,amount,date)values(?,?,?)",
+                    [title,amount,date],
+                    function(){viewExpenses();},
+                    function(tx,error){console.log("Insert error:",error);}
+                );
+            });
+        }
+
+        function viewExpenses(){
+            db.transaction(function(tx){
+                tx.executeSql(
+                    "SELECT * FROM expenses",
+                    [],
+                    function(tx,results){
+                        let list=document.getElementById("expenseList");
+                        list.innerHTML="";
+
+                        for(let i=0;i<results.rows.length;i++){
+                            let item=results.rows.item[i];
+
+                            list.innerHTML+="<div class='expense'>"+item.title+" - ₹"+item.amount+" ("+item.date+")"+"</div>";
+                        }
+                    },
+                    function(tx,error){console.log("Select error:",error);}
+                )
+            });
+        }
+
+        function clearExpenses(){
+            db.transaction(function(tx){
+                tx.executeSql(
+                    "DELETE FROM expenses",
+                    [],
+                    function(){viewExpenses();}
+                    function(tx, error) { console.log("Delete error:", error); }
+                );
+            });
+        }
+    </script>
+</body>
+</html>
