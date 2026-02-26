@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Booking Platform</title>
+</head>
+<body>
+    <h1>Travel & Tourism Booking</h1>
+    <h2>Explore Our Destination</h2>
+    <video width="600" controls>
+        <source src="./videoplayback.mp4" type="video/mp4">
+    </video>
+
+    <h3>Travel Theme</h3>
+    <audio controls>
+        <source src="./gkvg-whispering-shadows-1-226074.mp3" type="audio/mp3">
+    </audio>
+    <hr>
+
+    <form>
+        <label>Source City:</label>
+        <input list="cities" name="source" required>
+        <datalist id="cities">
+            <option value="Hyderabad"></option>
+            <option value="Mumbai"></option>
+            <option value="Delhi"></option>
+            <option value="Chennai"></option>
+            <option value="Bangalore"></option>
+        </datalist>
+        <br><br>
+
+        <label>Travel Date:</label>
+        <input type="date" name="departure" required>
+        <br><br>
+
+        <label>Return Date:</label>
+        <input type="date" name="return" required>
+        <br><br>
+
+        <label>Travel Class:</label>
+        <select required>
+            <option value="">Select Class</option>
+            <option>Economy</option>
+            <option>Premium Economy</option>
+            <option>Business</option>
+            <option>First Class</option>
+        </select>
+        <br><br>
+
+        <label>Preferred Airline:</label>
+        <input name="airline" list="airlines">
+        <datalist id="airlines">
+            <option value="indigo"></option>
+            <option value="Air India"></option>
+            <option value="Emirates"></option>
+            <option value="Qatar Airways"></option>
+        </datalist>
+        <br><br>
+
+        <label>Passengers (1-10):</label>
+        <input type="number" min="1" max="10" value="1" required>
+        <br><br>
+
+        <label>Meal  Preferred Color Tag:</label>
+        <input type="color">
+        <br><br>
+
+        <label>Special Assistance:</label>
+        <textarea placeholder="Mention wheelchair access, medical assistance, special seating preference etc..." rows="4"></textarea>
+        <br><br>
+
+        <button type="submit">Book Now</button>
+    </form>
+
+    <script>
+        const departure = document.querySelector('input[name="departure"]');
+        const returnDate = document.querySelector('input[name="return"]');
+
+        departure.addEventListener("change", () => {
+        returnDate.min = departure.value;
+        });
+    </script>
+</body>
+</html>

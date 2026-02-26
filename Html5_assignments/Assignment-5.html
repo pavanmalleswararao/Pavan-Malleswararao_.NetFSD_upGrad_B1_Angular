@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Saving Account Opening</title>
+</head>
+<body>
+    <header>
+        <h1>Digital Banking - Open Saving Account</h1>
+    </header>
+
+    <main>
+        <section>
+            <form>
+                <fieldset>
+                    <legend>Personal Information</legend>
+                    <label>Full Name:</label>
+                    <input type="text" name="fullname" required minlength="3">
+                    <br><br>
+
+                    <label>Email:</label>
+                    <input type="email" name="email" required>
+                    <br><br>
+
+                    <label>Phone Number:</label>
+                    <input type="tel" name="phone" pattern="[0-9]{10}" placeholder="10-digit mobile number" required>
+                    <br><br>
+
+                    <label>Date of Birth:</label>
+                    <input type="date" name="dob" max="" required>
+                    <br><br>
+                    
+                </fieldset>
+
+                <fieldset>
+                    <legend>Banking Details</legend>
+                    <label>PAN Number</label>
+                    <input type="text" name="pan" pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}" required>
+                    <br><br>
+
+                    <label>IFSC Code:</label>
+                    <input type="tex" name="ifsc" pattern="[A-Z]{4}[0-9]{7}" required>
+                    <br><br>
+
+                    <label>Account Type":</label>
+                    <input list="accountTypes" name="accountType" required>
+                    <datalist id="accountTypes">
+                        <option value="Savings"></option>
+                        <option value="Current"></option>
+                        <option value="Salary"></option>
+                        <option value="NRI"></option>
+                    </datalist>
+                    <br><br>
+
+                    <label>Monthly Income:</label>
+                    <input type="number" name="income" min="0" step="500" required>
+                    <br><br>
+
+                    <label>Upload ID Proof:</label>
+                    <input type="file" name="idproof" accept=".pdf,.jpg,.png">
+                    
+                </fieldset>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Secure Digital Bank</p>
+    </footer>
+
+    <script>
+        const dobInput=document.querySelector('input[name="dob"]');
+        const today=new Date();
+        today.setFullYear(today.getFullYear-18);
+        dobInput.max=today.toISOString().split("T")[0];
+    </script>
+</body>
+</html>
