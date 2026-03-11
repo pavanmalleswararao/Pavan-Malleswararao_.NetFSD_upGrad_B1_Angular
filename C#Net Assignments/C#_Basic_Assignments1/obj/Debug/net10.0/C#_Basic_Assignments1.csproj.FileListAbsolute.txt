@@ -1,0 +1,15 @@
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.AssemblyInfoInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.AssemblyInfo.cs
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.csproj.CoreCompileInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.sourcelink.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\bin\Debug\net10.0\C#_Basic_Assignments1.exe
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\bin\Debug\net10.0\C#_Basic_Assignments1.deps.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\bin\Debug\net10.0\C#_Basic_Assignments1.runtimeconfig.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\bin\Debug\net10.0\C#_Basic_Assignments1.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\bin\Debug\net10.0\C#_Basic_Assignments1.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\refint\C#_Basic_Assignments1.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\C#_Basic_Assignments1.genruntimeconfig.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Basic_Assignments1\obj\Debug\net10.0\ref\C#_Basic_Assignments1.dll
