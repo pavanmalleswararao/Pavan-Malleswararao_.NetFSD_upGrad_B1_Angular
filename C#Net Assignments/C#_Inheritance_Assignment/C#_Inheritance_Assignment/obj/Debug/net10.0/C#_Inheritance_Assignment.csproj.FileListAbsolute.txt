@@ -1,0 +1,15 @@
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\bin\Debug\net10.0\C#_Inheritance_Assignment.exe
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\bin\Debug\net10.0\C#_Inheritance_Assignment.deps.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\bin\Debug\net10.0\C#_Inheritance_Assignment.runtimeconfig.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\bin\Debug\net10.0\C#_Inheritance_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\bin\Debug\net10.0\C#_Inheritance_Assignment.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.AssemblyInfoInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.AssemblyInfo.cs
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.csproj.CoreCompileInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.sourcelink.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\refint\C#_Inheritance_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\C#_Inheritance_Assignment.genruntimeconfig.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_Inheritance_Assignment\C#_Inheritance_Assignment\obj\Debug\net10.0\ref\C#_Inheritance_Assignment.dll
