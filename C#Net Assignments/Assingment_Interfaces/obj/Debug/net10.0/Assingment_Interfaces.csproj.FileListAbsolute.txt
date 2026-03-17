@@ -1,0 +1,15 @@
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\bin\Debug\net10.0\Assingment_Interfaces.exe
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\bin\Debug\net10.0\Assingment_Interfaces.deps.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\bin\Debug\net10.0\Assingment_Interfaces.runtimeconfig.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\bin\Debug\net10.0\Assingment_Interfaces.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\bin\Debug\net10.0\Assingment_Interfaces.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.AssemblyInfoInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.AssemblyInfo.cs
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.csproj.CoreCompileInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.sourcelink.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\refint\Assingment_Interfaces.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\Assingment_Interfaces.genruntimeconfig.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\Assingment_Interfaces\obj\Debug\net10.0\ref\Assingment_Interfaces.dll

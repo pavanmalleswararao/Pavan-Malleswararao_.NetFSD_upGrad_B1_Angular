@@ -1,0 +1,15 @@
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.exe
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.deps.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.runtimeconfig.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\bin\Debug\net10.0\ExceptionHandling_Assignment.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.AssemblyInfoInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.AssemblyInfo.cs
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.csproj.CoreCompileInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.sourcelink.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\refint\ExceptionHandling_Assignment.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ExceptionHandling_Assignment.genruntimeconfig.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\ExceptionHandling_Assignment\obj\Debug\net10.0\ref\ExceptionHandling_Assignment.dll

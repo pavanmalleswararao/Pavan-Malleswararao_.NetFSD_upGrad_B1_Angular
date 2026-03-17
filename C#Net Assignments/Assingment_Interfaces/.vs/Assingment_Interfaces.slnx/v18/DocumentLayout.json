@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\c#net assignments\\assingment_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\c#net assignments\\assingment_interfaces\\assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|solutionrelative:assignment2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\c#net assignments\\assingment_interfaces\\assingment_interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|solutionrelative:assingment_interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\c#net assignments\\assingment_interfaces\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19BA04B3-CBDC-41C3-862D-74A83CAFF9B9}|Assingment_Interfaces.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment2.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assignment2.cs",
+              "RelativeDocumentMoniker": "Assignment2.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assignment2.cs",
+              "RelativeToolTip": "Assignment2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:00:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assingment_Interfaces",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assingment_Interfaces.csproj",
+              "RelativeDocumentMoniker": "Assingment_Interfaces.csproj",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assingment_Interfaces.csproj",
+              "RelativeToolTip": "Assingment_Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T11:00:02.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment1.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assignment1.cs",
+              "RelativeDocumentMoniker": "Assignment1.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Assignment1.cs",
+              "RelativeToolTip": "Assignment1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwGMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:09:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\Assingment_Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:08:26.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
