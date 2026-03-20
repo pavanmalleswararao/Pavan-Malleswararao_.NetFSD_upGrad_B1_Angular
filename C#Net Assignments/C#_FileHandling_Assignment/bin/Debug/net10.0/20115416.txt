@@ -1,0 +1,6 @@
+Student Name: Pavan
+Roll Number: 20115416
+Marks: 10, 20, 20
+Total: 50
+Average: 16.666666666666668
+Grade: Fail

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_Basic_Assignments1\\C#_Basic_Assignments1.csproj": {}
+    "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_FileHandling_Assignment\\C#_FileHandling_Assignment.csproj": {}
   },
   "projects": {
-    "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_Basic_Assignments1\\C#_Basic_Assignments1.csproj": {
+    "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_FileHandling_Assignment\\C#_FileHandling_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_Basic_Assignments1\\C#_Basic_Assignments1.csproj",
-        "projectName": "C#_Basic_Assignments1",
-        "projectPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_Basic_Assignments1\\C#_Basic_Assignments1.csproj",
+        "projectUniqueName": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_FileHandling_Assignment\\C#_FileHandling_Assignment.csproj",
+        "projectName": "C#_FileHandling_Assignment",
+        "projectPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_FileHandling_Assignment\\C#_FileHandling_Assignment.csproj",
         "packagesPath": "C:\\Users\\MYPC\\.nuget\\packages\\",
-        "outputPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_Basic_Assignments1\\obj\\",
+        "outputPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\C#Net Assignments\\C#_FileHandling_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
