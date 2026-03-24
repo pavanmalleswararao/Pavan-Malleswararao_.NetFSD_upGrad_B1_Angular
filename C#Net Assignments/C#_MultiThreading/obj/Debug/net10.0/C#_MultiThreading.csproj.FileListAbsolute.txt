@@ -1,0 +1,15 @@
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\bin\Debug\net10.0\C#_MultiThreading.exe
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\bin\Debug\net10.0\C#_MultiThreading.deps.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\bin\Debug\net10.0\C#_MultiThreading.runtimeconfig.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\bin\Debug\net10.0\C#_MultiThreading.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\bin\Debug\net10.0\C#_MultiThreading.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.AssemblyInfoInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.AssemblyInfo.cs
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.csproj.CoreCompileInputs.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.sourcelink.json
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\refint\C#_MultiThreading.dll
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.pdb
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\C#_MultiThreading.genruntimeconfig.cache
+D:\CTS .net FSD Angular\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\C#Net Assignments\C#_MultiThreading\obj\Debug\net10.0\ref\C#_MultiThreading.dll
