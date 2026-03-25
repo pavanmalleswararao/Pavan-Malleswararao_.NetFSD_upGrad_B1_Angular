@@ -31,7 +31,7 @@ namespace Ado_Assignment.Assignmnet5
             con = new SqlConnection(connectionString);
         }
 
-        // ✅ Add Book
+        // Add Book
         public void AddBook(BookDetails book)
         {
             try
@@ -52,7 +52,7 @@ namespace Ado_Assignment.Assignmnet5
             }
         }
 
-        // ✅ Get All Books
+        // Get All Books
         public List<BookDetails> GetAllBooks()
         {
             List<BookDetails> books = new List<BookDetails>();
@@ -84,7 +84,7 @@ namespace Ado_Assignment.Assignmnet5
             return books;
         }
 
-        // ✅ Update Book
+        // Update Book
         public void UpdateBook(int id, BookDetails book)
         {
             try
@@ -106,7 +106,7 @@ namespace Ado_Assignment.Assignmnet5
             }
         }
 
-        // ✅ Delete Book
+        //Delete Book
         public void DeleteBook(int id)
         {
             try
@@ -125,7 +125,7 @@ namespace Ado_Assignment.Assignmnet5
             }
         }
 
-        // ✅ Search Book
+        // Search Book
         public List<BookDetails> SearchBook(string title)
         {
             List<BookDetails> books = new List<BookDetails>();

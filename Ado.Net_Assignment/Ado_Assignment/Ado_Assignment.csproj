@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Ado_Assignment.Assignmnet5.Test_Book</StartupObject>
+    <StartupObject>Ado_Assignment.Assignment3_product_inventory.Test_Products</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

@@ -13,7 +13,7 @@
             {
                 try
                 {
-                    using (connection = new SqlConnection(connectionString))
+                    using (connection = new SqlConnection(connectionString))    
                     using(command = new SqlCommand("InsertEmployee", connection))
                     {
                     
