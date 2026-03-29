@@ -1,0 +1,18 @@
+﻿@model (string name,int age)
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@ViewData["Message"]</h1>
+
+<p>Name: @Model.name</p>
+<p>Age: @Model.age</p>
+
+@if (Model.age > 18)
+{
+    <p>Eligible</p>
+}
+else
+{
+    <p>Not Eligible</p>
+}

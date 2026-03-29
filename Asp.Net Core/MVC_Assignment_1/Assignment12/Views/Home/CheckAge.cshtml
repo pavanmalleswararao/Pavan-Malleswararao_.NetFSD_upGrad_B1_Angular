@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "CheckAge";
+}
+
+<h1>CheckAge</h1>
+@if (ViewBag.Age >= 18)
+{
+    <p>Eligible to Vote</p>
+}
+else
+{
+    <p>Not Eligible</p>
+}

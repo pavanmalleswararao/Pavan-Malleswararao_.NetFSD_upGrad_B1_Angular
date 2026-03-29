@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA67D6D-155F-47E9-B7CB-70A000DC02DC}|Assignment10.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net core\\mvc_assignment_1\\assignment10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA67D6D-155F-47E9-B7CB-70A000DC02DC}|Assignment10.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:21:44.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net Core\\MVC_Assignment_1\\Assignment10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:19:13.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
