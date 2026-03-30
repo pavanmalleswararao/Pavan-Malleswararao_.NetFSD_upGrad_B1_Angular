@@ -1,0 +1,24 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="container">
+    <h1>Delete Student</h1>
+    <p>Are you sure you want to delete @Model.Name ?</p>
+    <form method="post">
+        <table class="table">
+            <tr>
+                <td>
+                    <input type="hidden" name="id" value="@Model.Id"/>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input type="submit" class="btn-primary" value="Delete"/>
+                </td>
+            </tr>
+        </table>    
+    </form>
+    <a href="/Student/Index" class="btn">Cancel</a>
+</div>
+
