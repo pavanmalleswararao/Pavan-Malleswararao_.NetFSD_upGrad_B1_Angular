@@ -1,0 +1,33 @@
+﻿@model MVC_Assignment_3.Models.User
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container">
+    <h1>Edit Profile</h1>
+    <form asp-action="Edit">
+        <table>
+            <tr>
+                <td>
+                    <input asp-for="Name" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input asp-for="Email" readonly />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input asp-for="Password" type="password" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" class="btn-primary">Update</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
