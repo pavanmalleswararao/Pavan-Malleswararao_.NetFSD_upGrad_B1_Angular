@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\database\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:database\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\dtos\\doctors\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:dtos\\doctors\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\dtos\\doctors\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:dtos\\doctors\\doctorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\dtos\\doctors\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:dtos\\doctors\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Migrations\\20260414171055_IntialDBCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:repositories\\iprescriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\asp.net_core_api_assignment\\asp.net_core_assignment_1\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674C4408-FFA2-5FEA-A13F-FF9941E1C416}|Asp.net_Core_Assignment_1.csproj|solutionrelative:repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -210,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,33 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HealthCareDBCOntext.cs",
-              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Database\\HealthCareDBCOntext.cs",
-              "RelativeDocumentMoniker": "Database\\HealthCareDBCOntext.cs",
-              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Database\\HealthCareDBCOntext.cs",
-              "RelativeToolTip": "Database\\HealthCareDBCOntext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:17:51.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-09T10:13:43.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DoctorCreateDto.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Doctors\\DoctorCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Doctors\\DoctorCreateDto.cs",
@@ -257,20 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoctorReadDto.cs",
-              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Doctors\\DoctorReadDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Doctors\\DoctorReadDto.cs",
-              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Doctors\\DoctorReadDto.cs",
-              "RelativeToolTip": "DTOs\\Doctors\\DoctorReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:40:18.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Doctor.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "Entities\\Doctor.cs",
@@ -278,12 +252,11 @@
               "RelativeToolTip": "Entities\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:25:05.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T11:25:05.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260414171055_IntialDBCreate.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Migrations\\20260414171055_IntialDBCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260414171055_IntialDBCreate.cs",
@@ -291,12 +264,11 @@
               "RelativeToolTip": "Migrations\\20260414171055_IntialDBCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T17:10:55.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T17:10:55.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20260414170750_IntialDBCreate.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Migrations\\20260414170750_IntialDBCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260414170750_IntialDBCreate.cs",
@@ -304,12 +276,11 @@
               "RelativeToolTip": "Migrations\\20260414170750_IntialDBCreate.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T17:07:51.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T17:07:51.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CancelAppointmentDto.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Appointments\\CancelAppointmentDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Appointments\\CancelAppointmentDto.cs",
@@ -317,12 +288,49 @@
               "RelativeToolTip": "DTOs\\Appointments\\CancelAppointmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T12:00:35.082Z",
+              "WhenOpened": "2026-04-13T12:00:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DoctorRepository.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:29:52.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "HealthCareDBCOntext.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Database\\HealthCareDBCOntext.cs",
+              "RelativeDocumentMoniker": "Database\\HealthCareDBCOntext.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Database\\HealthCareDBCOntext.cs",
+              "RelativeToolTip": "Database\\HealthCareDBCOntext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:17:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorReadDto.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Doctors\\DoctorReadDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Doctors\\DoctorReadDto.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Doctors\\DoctorReadDto.cs",
+              "RelativeToolTip": "DTOs\\Doctors\\DoctorReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:40:18.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "Services\\AppointmentService.cs",
@@ -330,12 +338,11 @@
               "RelativeToolTip": "Services\\AppointmentService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:34:50.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:34:50.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -343,12 +350,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:13:36.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:13:36.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AppointmentReadDto.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Appointments\\AppointmentReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Appointments\\AppointmentReadDto.cs",
@@ -356,12 +362,11 @@
               "RelativeToolTip": "DTOs\\Appointments\\AppointmentReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:54:19.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:54:19.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AppointmentCreateDto.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Appointments\\AppointmentCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Appointments\\AppointmentCreateDto.cs",
@@ -369,12 +374,11 @@
               "RelativeToolTip": "DTOs\\Appointments\\AppointmentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:43:47.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:43:47.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Appointment.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "Entities\\Appointment.cs",
@@ -382,12 +386,11 @@
               "RelativeToolTip": "Entities\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T10:09:17.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T10:09:17.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Asp.net_Core_Assignment_1.csproj",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Asp.net_Core_Assignment_1.csproj",
               "RelativeDocumentMoniker": "Asp.net_Core_Assignment_1.csproj",
@@ -399,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppointmentStatus.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Entities\\AppointmentStatus.cs",
               "RelativeDocumentMoniker": "Entities\\AppointmentStatus.cs",
@@ -407,12 +410,11 @@
               "RelativeToolTip": "Entities\\AppointmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T10:25:07.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T10:25:07.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AppointmentRepository.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\AppointmentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AppointmentRepository.cs",
@@ -420,12 +422,11 @@
               "RelativeToolTip": "Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:56:01.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:56:01.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IAppointmentRepository.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\IAppointmentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IAppointmentRepository.cs",
@@ -433,12 +434,11 @@
               "RelativeToolTip": "Repositories\\IAppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:46:20.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:46:20.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "Controllers\\PrescriptionController.cs",
@@ -446,12 +446,11 @@
               "RelativeToolTip": "Controllers\\PrescriptionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T14:13:26.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T14:13:26.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Prescription.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Entities\\Prescription.cs",
               "RelativeDocumentMoniker": "Entities\\Prescription.cs",
@@ -459,12 +458,11 @@
               "RelativeToolTip": "Entities\\Prescription.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T10:26:42.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T10:26:42.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Patient.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Entities\\Patient.cs",
               "RelativeDocumentMoniker": "Entities\\Patient.cs",
@@ -472,12 +470,11 @@
               "RelativeToolTip": "Entities\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:10:50.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:10:50.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -485,12 +482,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-14T16:09:09.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T16:09:09.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -498,12 +494,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAlwBsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:26:41.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T12:26:41.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PatientController.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
@@ -511,12 +506,11 @@
               "RelativeToolTip": "Controllers\\PatientController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:20:31.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:20:31.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
@@ -524,12 +518,11 @@
               "RelativeToolTip": "Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:35:37.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T11:35:37.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "PrescriptionService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\PrescriptionService.cs",
               "RelativeDocumentMoniker": "Services\\PrescriptionService.cs",
@@ -537,12 +530,11 @@
               "RelativeToolTip": "Services\\PrescriptionService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAawDsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:10:47.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T12:10:47.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IPrescriptionService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\IPrescriptionService.cs",
               "RelativeDocumentMoniker": "Services\\IPrescriptionService.cs",
@@ -550,12 +542,11 @@
               "RelativeToolTip": "Services\\IPrescriptionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T12:08:26.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T12:08:26.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "Services\\IAppointmentService.cs",
@@ -563,12 +554,11 @@
               "RelativeToolTip": "Services\\IAppointmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:31:58.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:31:58.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\DoctorService.cs",
               "RelativeDocumentMoniker": "Services\\DoctorService.cs",
@@ -576,12 +566,11 @@
               "RelativeToolTip": "Services\\DoctorService.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwEEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:15:01.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:15:01.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\IDoctorService.cs",
               "RelativeDocumentMoniker": "Services\\IDoctorService.cs",
@@ -589,12 +578,11 @@
               "RelativeToolTip": "Services\\IDoctorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T11:11:57.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T11:11:57.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "PatientService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "Services\\PatientService.cs",
@@ -602,12 +590,11 @@
               "RelativeToolTip": "Services\\PatientService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T10:49:10.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T10:49:10.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\IPatientService.cs",
               "RelativeDocumentMoniker": "Services\\IPatientService.cs",
@@ -615,12 +602,11 @@
               "RelativeToolTip": "Services\\IPatientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T10:46:48.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T10:46:48.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "JwtTokenService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
@@ -628,12 +614,11 @@
               "RelativeToolTip": "Services\\JwtTokenService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T10:29:11.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T10:29:11.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "PatientUpdateDto.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\DTOs\\Patients\\PatientUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Patients\\PatientUpdateDto.cs",
@@ -641,12 +626,11 @@
               "RelativeToolTip": "DTOs\\Patients\\PatientUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:17:01.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:17:01.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IJwtTokenService.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Services\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "Services\\IJwtTokenService.cs",
@@ -654,12 +638,11 @@
               "RelativeToolTip": "Services\\IJwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T10:26:36.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T10:26:36.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "PrescriptionRepository.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\PrescriptionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\PrescriptionRepository.cs",
@@ -667,12 +650,11 @@
               "RelativeToolTip": "Repositories\\PrescriptionRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T04:14:28.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T04:14:28.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IPrescriptionRepository.cs",
               "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\IPrescriptionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IPrescriptionRepository.cs",
@@ -680,8 +662,7 @@
               "RelativeToolTip": "Repositories\\IPrescriptionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T04:07:32.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T04:07:32.081Z"
             },
             {
               "$type": "Document",
@@ -693,8 +674,7 @@
               "RelativeToolTip": "Repositories\\PatientRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:26:06.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:26:06.334Z"
             },
             {
               "$type": "Document",
@@ -706,21 +686,7 @@
               "RelativeToolTip": "Repositories\\IDoctorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:27:26.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\DoctorRepository.cs",
-              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\Asp.Net_Core_Api_Assignment\\Asp.net_Core_Assignment_1\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "Repositories\\DoctorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:29:52.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T11:27:26.026Z"
             },
             {
               "$type": "Document",
@@ -732,8 +698,7 @@
               "RelativeToolTip": "Repositories\\IPatientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:21:09.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:21:09.888Z"
             },
             {
               "$type": "Document",
@@ -745,8 +710,7 @@
               "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:17:28.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:17:28.155Z"
             },
             {
               "$type": "Document",
@@ -758,8 +722,7 @@
               "RelativeToolTip": "Exceptions\\ConflictException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:15:38.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:15:38.921Z"
             },
             {
               "$type": "Document",
@@ -771,8 +734,7 @@
               "RelativeToolTip": "Exceptions\\BadRequestException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:12:47.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:12:47.707Z"
             },
             {
               "$type": "Document",
@@ -784,8 +746,7 @@
               "RelativeToolTip": "Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:11:47.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:11:47.127Z"
             },
             {
               "$type": "Document",
@@ -797,8 +758,7 @@
               "RelativeToolTip": "DTOs\\Auth\\LoginResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:09:27.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:09:27.996Z"
             },
             {
               "$type": "Document",
@@ -810,8 +770,7 @@
               "RelativeToolTip": "DTOs\\Auth\\LoginRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:08:09.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:08:09.103Z"
             },
             {
               "$type": "Document",
@@ -823,8 +782,7 @@
               "RelativeToolTip": "DTOs\\Prescriptions\\PrescriptionReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T03:05:42.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T03:05:42.859Z"
             },
             {
               "$type": "Document",
@@ -836,8 +794,7 @@
               "RelativeToolTip": "DTOs\\Prescriptions\\PrescriptionCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T12:02:21.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T12:02:21.428Z"
             },
             {
               "$type": "Document",
@@ -849,8 +806,7 @@
               "RelativeToolTip": "DTOs\\Patients\\PatientReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:21:16.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:21:16.167Z"
             },
             {
               "$type": "Document",
@@ -862,8 +818,7 @@
               "RelativeToolTip": "DTOs\\Patients\\PatientCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T11:08:31.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T11:08:31.237Z"
             }
           ]
         }
