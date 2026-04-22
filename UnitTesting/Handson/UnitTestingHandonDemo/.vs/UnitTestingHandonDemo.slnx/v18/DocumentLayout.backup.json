@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B8524-B153-4AFD-A103-3C49D46DCDD0}|TestMathLibrary\\TestMathLibrary.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\unittesting\\handson\\unittestinghandondemo\\testmathlibrary\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8B8524-B153-4AFD-A103-3C49D46DCDD0}|TestMathLibrary\\TestMathLibrary.csproj|solutionrelative:testmathlibrary\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\unittesting\\handson\\unittestinghandondemo\\mathlibrary\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\unittesting\\handson\\unittestinghandondemo\\mathlibrary\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\unittesting\\handson\\unittestinghandondemo\\mathlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766400D9-4B1D-426C-9E98-CE37A5C49C45}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B8524-B153-4AFD-A103-3C49D46DCDD0}|TestMathLibrary\\TestMathLibrary.csproj|d:\\cts .net fsd angular\\pavan-malleswararao_.netfsd_upgrad_b1_angular\\unittesting\\handson\\unittestinghandondemo\\testmathlibrary\\calculatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8B8524-B153-4AFD-A103-3C49D46DCDD0}|TestMathLibrary\\TestMathLibrary.csproj|solutionrelative:testmathlibrary\\calculatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\TestMathLibrary\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "TestMathLibrary\\ProductRepositoryTest.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\TestMathLibrary\\ProductRepositoryTest.cs*",
+              "RelativeToolTip": "TestMathLibrary\\ProductRepositoryTest.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:32:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\ProductRepository.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\ProductRepository.cs",
+              "RelativeToolTip": "MathLibrary\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:30:02.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\Product.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\Product.cs",
+              "RelativeToolTip": "MathLibrary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T06:28:45.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculateTest.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\TestMathLibrary\\CalculateTest.cs",
+              "RelativeDocumentMoniker": "TestMathLibrary\\CalculateTest.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\TestMathLibrary\\CalculateTest.cs",
+              "RelativeToolTip": "TestMathLibrary\\CalculateTest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvycAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:23:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\Calculate.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\Calculate.cs",
+              "ToolTip": "D:\\CTS .net FSD Angular\\Pavan-Malleswararao_.NetFSD_upGrad_B1_Angular\\UnitTesting\\Handson\\UnitTestingHandonDemo\\MathLibrary\\Calculate.cs",
+              "RelativeToolTip": "MathLibrary\\Calculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T05:21:36.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
